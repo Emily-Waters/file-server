@@ -1,0 +1,3 @@
+This file is called file_firstlvl_001.txt
+It is in the servermain/firstlvl_001 directory
+Its filepath is servermain/firstlvl_001/file_firstlvl_001.txt

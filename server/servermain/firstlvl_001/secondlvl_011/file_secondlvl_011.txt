@@ -1,0 +1,5 @@
+This file is called file_secondlvl_011.txt
+It is in the servermain/firstlvl_001/secondlvl_011 directory
+Its filepath is servermain/firstlvl_001/secondlvl_011/file_secondlvl_011.txt
+This file also has an additional line of text
+This additional line as well

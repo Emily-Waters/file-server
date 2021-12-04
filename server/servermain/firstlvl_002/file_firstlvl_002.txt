@@ -1,0 +1,4 @@
+This file is called file_firstlvl_002.txt
+It is in the servermain/firstlvl_002 directory
+Its filepath is servermain/firstlvl_002/file_firstlvl_002.txt
+This is an additional line of text
