@@ -1,0 +1,27 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "Week 2 stretch challenge for lighthouse labs, creating a simple file server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emily-Waters/file-server.git"
+  },
+  "keywords": [
+    "LHL",
+    "Emily-Waters"
+  ],
+  "author": "Emily Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emily-Waters/file-server/issues"
+  },
+  "homepage": "https://github.com/Emily-Waters/file-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
